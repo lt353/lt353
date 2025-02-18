@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there! 👋 Welcome to my GitHub
 
-<!--
-**lt353/lt353** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **student** currently diving into the world of **web development**!   
+I'm **new to GitHub** and using it to track my progress as I build projects and learn new technologies.
 
-Here are some ideas to get you started:
+## What I'm Learning:
+- **Front-end**: HTML, CSS
+- **Back-end**: JavaScript (still learning), Node.js, Express.js
+- **Upcoming**: MongoDB, React
+- **Expanding my skills in**: Web page authoring, server-side scripting, APIs, authentication, and database integration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Working On:
+- Hands-on projects to practice what I learn
+- Exploring full-stack development by combining front-end and back-end technologies
+
+## Looking Forward To:
+- Collaborating on open-source projects
+- Building real-world applications
+- Improving my Git and GitHub workflow
+
+**Let's Connect!**  
+I'm always open to learning and collaborating. Feel free to check out my projects and follow my journey!
