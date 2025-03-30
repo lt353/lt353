@@ -5,8 +5,8 @@ I'm **new to GitHub** and using it to track my progress as I build projects and 
 
 ## What I'm Learning:
 - **Front-end**: HTML, CSS
-- **Back-end**: JavaScript, Node.js, Express.js, APIs, JSON
-- **Upcoming**: MongoDB, React
+- **Back-end**: JavaScript, Node.js, Express.js, APIs, JSON, MongoDB, Mongoose
+- **Upcoming**: React
 - **Expanding my skills in**: Web page authoring, server-side scripting, APIs, authentication, and database integration
 
 ## What I'm Working On:
